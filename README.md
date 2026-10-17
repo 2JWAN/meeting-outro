@@ -1,10 +1,6 @@
-# Work Meeting Outro
 
-Because clicking "Leave meeting" is way too normal.
 
 A gesture-controlled webcam effect that lets you disappear and reappear during online meetings.
-
-Built with Python, OpenCV, MediaPipe, and OBS.
 
 ## Features
 
