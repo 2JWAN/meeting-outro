@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="assets/reaction.gif" width="400" alt="Work Meeting Outro reaction">
+</p>
 
 A gesture-controlled webcam effect that lets you disappear and reappear during online meetings.
 
