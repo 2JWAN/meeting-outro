@@ -28,5 +28,3 @@ pip install -r requirements.txt
 3. Return to the frame.
 4. Use a peace sign or finger snap to disappear/reappear.
 5. Press `Q` to quit.
-
-That's it. Have a dramatic meeting exit.
